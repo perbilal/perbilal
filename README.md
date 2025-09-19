@@ -22,7 +22,7 @@ Languages & Frameworks:
 
 Take a look at one of my favorite creations:
 
-[masooma-](https://github.com/perbilal/masooma-)  
+
 A unique project showcasing my skills in full-stack web development.
 
 ---
